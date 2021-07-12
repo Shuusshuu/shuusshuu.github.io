@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Shuu</title>
+  <title>树屋</title>
   
-  
+  <subtitle>挖着一个又一个填不完的坑</subtitle>
   <link href="https://shuu.abisu.top/atom.xml" rel="self"/>
   
   <link href="https://shuu.abisu.top/"/>
@@ -10,7 +10,7 @@
   <id>https://shuu.abisu.top/</id>
   
   <author>
-    <name>Shuusshuu</name>
+    <name>Shuu</name>
     
   </author>
   
